@@ -25,4 +25,5 @@ A aplicação consiste  em um formulário em html.
 #  Autor
 Beatriz Alves
 
-Linkdin
+Linkedin
+https://www.linkedin.com/in/beatriz2071/
